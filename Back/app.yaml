@@ -1,0 +1,11 @@
+runtime: nodejs16
+env_variables:
+  OPENAI_API_KEY: "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"
+  DB_USER: "postgres"
+  DB_PASS: "4kf9:{sIc76*(Fe4"
+  DB_NAME: "postgres"
+  INSTANCE_UNIX_SOCKET: "bluffychat:us-central1:elite-match"
+  INSTANCE_HOST: "35.202.235.188"
+  DB_PORT: "5432"
+  REDIS_USER_KEY : "S1s7jh8teky4o6dq4umiwszffte2jakifk6tehojbzo4hcquwll"
+  REDIS_ACCOUNT_KEY : "A13j4xdsyuk663dz6riine2b9r2vnapuqhmj2lxh5sudkt3mb52"
