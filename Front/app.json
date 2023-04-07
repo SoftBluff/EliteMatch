@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Elite Match",
+    "slug": "Elite Match",
+    "version": "1.0.0",
+    
+    "orientation": "portrait",
+    "icon": "./assets/img/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#181E25"
+    },
+
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#181E25"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
